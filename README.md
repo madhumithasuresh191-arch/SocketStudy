@@ -94,6 +94,13 @@ while True:
 
 c.close()
 ~~~
+## output
+server
+![cn 1a server](https://github.com/user-attachments/assets/bf90d06c-2725-473e-b55c-4d9fefbc3517)
+
+client
+![cn 1a client](https://github.com/user-attachments/assets/31cd30a3-8614-4f93-a58f-d402d39a8095)
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
