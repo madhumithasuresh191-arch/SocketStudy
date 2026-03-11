@@ -1,4 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
+Name:S Madhumitha
+Reg no:212224050217
 
 ## Aim: 
 To perform a study on Socket Programming
